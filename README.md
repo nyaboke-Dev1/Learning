@@ -40,3 +40,5 @@ git merge [branch]
 merge the specified branch’s history into the current one
 git log
 show all commits in the current branch’s history.
+
+change
